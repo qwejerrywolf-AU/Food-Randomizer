@@ -1,2 +1,2 @@
 # Food-Randomizer
-Hi!
+Run main.py to start the program
