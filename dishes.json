@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Beef Wellington",
+    "cuisine": "Australian",
+    "taste": "savory",
+    "budget": "high",
+    "calories": 600,
+    "description": "A classic Australian dish featuring a tender beef fillet coated with pâté and mushrooms, wrapped in puff pastry and baked to perfection."
+  },
+  {
+    "name": "Barramundi Fillet with Lemon Butter Sauce",
+    "cuisine": "Australian",
+    "taste": "savory",
+    "budget": "high",
+    "calories": 480,
+    "description": "A delicious Australian seafood dish, the barramundi fillet is pan - seared and topped with a zesty lemon butter sauce."
+  },
+  {
+    "name": "Kangaroo Steak",
+    "cuisine": "Australian",
+    "taste": "gamey",
+    "budget": "medium",
+    "calories": 380,
+    "description": "An Australian specialty, kangaroo steak offers a lean and gamey meat with a unique flavor, cooked to your preferred doneness."
+  },
+  {
+    "name": "Meat Pie",
+    "cuisine": "Australian",
+    "taste": "savory",
+    "budget": "low",
+    "calories": 500,
+    "description": "A staple of Australian cuisine, this savory pie is filled with minced meat and gravy, encased in a flaky pastry crust."
+  },
+  {
+    "name": "Lamington",
+    "cuisine": "Australian",
+    "taste": "sweet",
+    "budget": "low",
+    "calories": 350,
+    "description": "A popular Australian dessert, lamingtons are sponge cakes coated in chocolate sauce and desiccated coconut."
+  },
+  {
+    "name": "Pavlova",
+    "cuisine": "Australian",
+    "taste": "sweet",
+    "budget": "medium",
+    "calories": 420,
+    "description": "A meringue - based dessert, pavlova has a crisp crust and a soft, marshmallow - like center, topped with fresh fruits and whipped cream."
+  },
+  {
+    "name": "Chicken Parmigiana",
+    "cuisine": "Australian",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 650,
+    "description": "An Australian favorite, chicken parmigiana consists of a breaded chicken cutlet topped with tomato sauce, mozzarella cheese, and baked until bubbly."
+  },
+  {
+    "name": "Seafood Paella",
+    "cuisine": "Australian",
+    "taste": "savory",
+    "budget": "high",
+    "calories": 550,
+    "description": "A rich and flavorful Australian dish, paella is a rice dish cooked with a variety of fresh seafood, spices, and saffron."
+  },
+  {
+    "name": "Spicy Australian Prawn Curry",
+    "cuisine": "Australian",
+    "taste": "spicy",
+    "budget": "high",
+    "calories": 520,
+    "description": "This Australian prawn curry is a spicy and aromatic dish, with succulent prawns cooked in a curry sauce with local spices."
+  },
+  {
+    "name": "Vegetable and Feta Quiche",
+    "cuisine": "Australian",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 400,
+    "description": "A savory Australian quiche filled with a mixture of vegetables and feta cheese, baked in a buttery pastry crust."
+  },
+  {
+    "name": "Mapo Tofu",
+    "cuisine": "Chinese",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 320,
+    "description": "A famous Chinese dish from Sichuan cuisine, mapo tofu features soft tofu in a spicy and numbing sauce made with minced meat and Sichuan peppercorns."
+  },
+  {
+    "name": "Kung Pao Chicken",
+    "cuisine": "Chinese",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 300,
+    "description": "A classic Chinese stir - fry, kung pao chicken combines diced chicken, peanuts, vegetables, and a spicy sauce for a flavorful dish."
+  },
+  {
+    "name": "Sweet and Sour Pork",
+    "cuisine": "Chinese",
+    "taste": "sweet",
+    "budget": "medium",
+    "calories": 450,
+    "description": "A popular Chinese dish, sweet and sour pork consists of deep - fried pork pieces coated in a sweet and tangy sauce."
+  },
+  {
+    "name": "Beijing Roast Duck",
+    "cuisine": "Chinese",
+    "taste": "savory",
+    "budget": "high",
+    "calories": 700,
+    "description": "A world - renowned Chinese dish, Beijing roast duck is known for its crispy skin and tender meat, usually served with thin pancakes, scallions, and hoisin sauce."
+  },
+  {
+    "name": "Sichuan Hot Pot",
+    "cuisine": "Chinese",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 600,
+    "description": "A communal Chinese dish, Sichuan hot pot features a spicy broth filled with various meats, vegetables, and seafood cooked at the table."
+  },
+  {
+    "name": "Xiaolongbao",
+    "cuisine": "Chinese",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 280,
+    "description": "A type of Chinese steamed dumpling, xiaolongbao are filled with savory meat and a delicious broth, bursting with flavor when bitten into."
+  },
+  {
+    "name": "General Tso's Chicken",
+    "cuisine": "Chinese",
+    "taste": "sweet",
+    "budget": "medium",
+    "calories": 420,
+    "description": "A well - known Chinese - American dish, General Tso's chicken is deep - fried chicken pieces in a sweet and spicy sauce."
+  },
+  {
+    "name": "Yangzhou Fried Rice",
+    "cuisine": "Chinese",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 480,
+    "description": "A classic Chinese fried rice dish, Yangzhou fried rice is made with eggs, ham, shrimp, vegetables, and fragrant rice."
+  },
+  {
+    "name": "Spicy Dan Dan Noodles",
+    "cuisine": "Chinese",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 550,
+    "description": "A spicy Chinese noodle dish, Dan Dan noodles are topped with minced meat, spicy sauce, and various seasonings."
+  },
+  {
+    "name": "Steamed Fish with Scallions and Ginger",
+    "cuisine": "Chinese",
+    "taste": "savory",
+    "budget": "high",
+    "calories": 350,
+    "description": "A simple yet elegant Chinese dish, steamed fish is seasoned with scallions and ginger, highlighting the freshness of the fish."
+  },
+  {
+    "name": "Caesar Salad",
+    "cuisine": "Western",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 380,
+    "description": "A classic Western salad, Caesar salad consists of romaine lettuce, croutons, Parmesan cheese, and a creamy Caesar dressing."
+  },
+  {
+    "name": "Greek Salad",
+    "cuisine": "Western",
+    "taste": "fresh",
+    "budget": "medium",
+    "calories": 250,
+    "description": "A refreshing Western salad, Greek salad features tomatoes, cucumbers, feta cheese, olives, and a light vinaigrette dressing."
+  },
+  {
+    "name": "Caprese Salad",
+    "cuisine": "Western",
+    "taste": "fresh",
+    "budget": "medium",
+    "calories": 220,
+    "description": "A simple and fresh Western salad, Caprese salad combines tomatoes, fresh mozzarella cheese, basil leaves, and a drizzle of balsamic glaze."
+  },
+  {
+    "name": "Cobb Salad",
+    "cuisine": "Western",
+    "taste": "savory",
+    "budget": "high",
+    "calories": 500,
+    "description": "A hearty Western salad, Cobb salad includes lettuce, chicken, bacon, eggs, tomatoes, avocado, and blue cheese dressing."
+  },
+  {
+    "name": "Spinach Salad with Warm Bacon Dressing",
+    "cuisine": "Western",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 450,
+    "description": "A delicious Western salad, spinach salad is topped with warm bacon dressing, hard - boiled eggs, and other ingredients."
+  },
+  {
+    "name": "Wedge Salad",
+    "cuisine": "Western",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 420,
+    "description": "A classic Western salad, wedge salad is a large wedge of iceberg lettuce topped with bacon bits, blue cheese dressing, and other toppings."
+  },
+  {
+    "name": "Spicy Southwest Salad",
+    "cuisine": "Western",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 480,
+    "description": "A spicy Western salad, this salad combines ingredients like black beans, corn, tomatoes, and a spicy dressing."
+  },
+  {
+    "name": "Roasted Vegetable Salad",
+    "cuisine": "Western",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 350,
+    "description": "A healthy Western salad, roasted vegetable salad features a variety of roasted vegetables, usually served with a light dressing."
+  },
+  {
+    "name": "Seafood Salad",
+    "cuisine": "Western",
+    "taste": "fresh",
+    "budget": "high",
+    "calories": 320,
+    "description": "A fresh Western salad, seafood salad is made with a combination of seafood such as shrimp, crab, and scallops, and a light dressing."
+  },
+  {
+    "name": "Chicken Caesar Wrap Salad",
+    "cuisine": "Western",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 400,
+    "description": "A convenient Western dish, chicken Caesar wrap salad combines chicken, Caesar salad ingredients, and is wrapped in a tortilla."
+  },
+  {
+    "name": "Nigiri Sushi",
+    "cuisine": "Japanese",
+    "taste": "fresh",
+    "budget": "medium",
+    "calories": 200,
+    "description": "A traditional Japanese sushi, nigiri sushi consists of a slice of raw fish on top of a small mound of vinegared rice."
+  },
+  {
+    "name": "Sashimi Platter",
+    "cuisine": "Japanese",
+    "taste": "fresh",
+    "budget": "high",
+    "calories": 300,
+    "description": "A Japanese dish featuring thinly sliced raw fish, sashimi is often served with soy sauce and wasabi."
+  },
+  {
+    "name": "California Roll",
+    "cuisine": "Japanese",
+    "taste": "fresh",
+    "budget": "medium",
+    "calories": 250,
+    "description": "A popular Japanese - American sushi roll, California roll is made with avocado, cucumber, and imitation crab meat, wrapped in seaweed and rice."
+  },
+  {
+    "name": "Tempura Udon",
+    "cuisine": "Japanese",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 550,
+    "description": "A Japanese noodle dish, tempura udon features thick udon noodles in a savory broth, topped with tempura - fried seafood and vegetables."
+  },
+  {
+    "name": "Miso Ramen",
+    "cuisine": "Japanese",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 600,
+    "description": "A classic Japanese ramen, miso ramen has a rich and savory miso - based broth, usually served with noodles, meat, and other toppings."
+  },
+  {
+    "name": "Yakitori",
+    "cuisine": "Japanese",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 380,
+    "description": "Japanese grilled chicken skewers, yakitori are marinated in a special sauce and grilled to perfection."
+  },
+  {
+    "name": "Spicy Tuna Roll",
+    "cuisine": "Japanese",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 280,
+    "description": "A Japanese sushi roll, spicy tuna roll is filled with spicy tuna and other ingredients, wrapped in seaweed and rice."
+  },
+  {
+    "name": "Teriyaki Chicken Donburi",
+    "cuisine": "Japanese",
+    "taste": "sweet",
+    "budget": "medium",
+    "calories": 500,
+    "description": "A Japanese rice bowl dish, teriyaki chicken donburi features chicken cooked in a sweet teriyaki sauce, served over a bowl of rice."
+  },
+  {
+    "name": "Okonomiyaki",
+    "cuisine": "Japanese",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 450,
+    "description": "A savory Japanese pancake, okonomiyaki is filled with a variety of ingredients such as cabbage, meat, and seafood, and topped with sauce and mayonnaise."
+  },
+  {
+    "name": "Matcha Mochi",
+    "cuisine": "Japanese",
+    "taste": "sweet",
+    "budget": "medium",
+    "calories": 320,
+    "description": "A Japanese sweet, matcha mochi is a soft and chewy rice cake filled with sweet red bean paste and flavored with matcha green tea."
+  },
+  {
+    "name": "Tom Yum Goong",
+    "cuisine": "Thai",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 280,
+    "description": "A famous Thai soup, Tom Yum Goong is a spicy and sour soup made with shrimp, lemongrass, kaffir lime leaves, and other herbs."
+  },
+  {
+    "name": "Pad Thai",
+    "cuisine": "Thai",
+    "taste": "sweet",
+    "budget": "medium",
+    "calories": 500,
+    "description": "A popular Thai stir - fried rice noodle dish, Pad Thai is cooked with eggs, tofu, shrimp or chicken, peanuts, and a sweet and savory sauce."
+  },
+  {
+    "name": "Green Curry Chicken",
+    "cuisine": "Thai",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 450,
+    "description": "A Thai curry dish, green curry chicken is made with chicken, green curry paste, coconut milk, and vegetables."
+  },
+  {
+    "name": "Som Tum",
+    "cuisine": "Thai",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 200,
+    "description": "A spicy Thai papaya salad, Som Tum is made with shredded papaya, tomatoes, lime juice, fish sauce, and other seasonings."
+  },
+  {
+    "name": "Massaman Curry",
+    "cuisine": "Thai",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 420,
+    "description": "A Thai curry with a complex flavor, Massaman curry combines elements of Indian and Thai cuisine, featuring meat, potatoes, and a rich curry sauce."
+  },
+  {
+    "name": "Chicken Satay",
+    "cuisine": "Thai",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 350,
+    "description": "A Thai appetizer, chicken satay consists of grilled chicken skewers served with a peanut dipping sauce."
+  },
+  {
+    "name": "Khao Soi",
+    "cuisine": "Thai",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 600,
+    "description": "A Thai noodle soup, Khao Soi features egg noodles in a creamy curry broth, topped with crispy noodles and other ingredients."
+  },
+  {
+    "name": "Spicy Basil Chicken",
+    "cuisine": "Thai",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 380,
+    "description": "A Thai stir - fry dish, spicy basil chicken is made with chicken, fresh basil leaves, and a spicy sauce."
+  },
+  {
+    "name": "Mango Sticky Rice",
+    "cuisine": "Thai",
+    "taste": "sweet",
+    "budget": "medium",
+    "calories": 450,
+    "description": "A popular Thai dessert, mango sticky rice combines sweet sticky rice, fresh mangoes, and coconut cream."
+  },
+  {
+    "name": "Tom Kha Gai",
+    "cuisine": "Thai",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 320,
+    "description": "A Thai soup, Tom Kha Gai is a creamy coconut - based soup with chicken, lemongrass, and kaffir lime leaves."
+  },
+  {
+    "name": "Butter Chicken",
+    "cuisine": "Indian",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 480,
+    "description": "A well - known Indian dish, butter chicken consists of chicken pieces cooked in a rich and creamy tomato - based sauce."
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "cuisine": "Indian",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 500,
+    "description": "A popular Indian dish, chicken tikka masala features marinated and grilled chicken pieces in a spiced tomato - cream sauce."
+  },
+  {
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 420,
+    "description": "An Indian vegetarian dish, Palak Paneer is made with spinach puree and paneer cheese, cooked with spices."
+  },
+  {
+    "name": "Biryani",
+    "cuisine": "Indian",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 600,
+    "description": "A fragrant Indian rice dish, biryani is cooked with long - grain rice, meat or vegetables, and a blend of spices."
+  },
+  {
+    "name": "Samosas",
+    "cuisine": "Indian",
+    "taste": "savory",
+    "budget": "low",
+    "calories": 350,
+    "description": "A classic Indian snack, samosas are triangular pastries filled with spiced potatoes, peas, and sometimes meat."
+  },
+  {
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "taste": "spicy",
+    "budget": "low",
+    "calories": 320,
+    "description": "An Indian chickpea curry, Chana Masala is made with chickpeas in a spicy and flavorful tomato - based sauce."
+  },
+  {
+    "name": "Vada Pav",
+    "cuisine": "Indian",
+    "taste": "savory",
+    "budget": "low",
+    "calories": 400,
+    "description": "A popular Indian street food, Vada Pav consists of a deep - fried potato fritter sandwiched between a bun, served with chutneys."
+  },
+  {
+    "name": "Rogan Josh",
+    "cuisine": "Indian",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 550,
+    "description": "A rich and spicy Indian lamb curry, Rogan Josh is made with tender lamb pieces in a flavorful gravy."
+  },
+  {
+    "name": "Dosa",
+    "cuisine": "Indian",
+    "taste": "savory",
+    "budget": "low",
+    "calories": 450,
+    "description": "A South Indian crepe - like dish, dosa is made from fermented rice and lentil batter, usually served with sambar and chutney."
+  },
+  {
+    "name": "Gulab Jamun",
+    "cuisine": "Indian",
+    "taste": "sweet",
+    "budget": "low",
+    "calories": 380,
+    "description": "A sweet Indian dessert, Gulab Jamun are deep - fried milk balls soaked in a sugary syrup."
+  },
+  {
+    "name": "Bibimbap",
+    "cuisine": "Korean",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 400,
+    "description": "A traditional Korean dish, Bibimbap is a bowl of rice topped with various vegetables, meat, and a fried egg, mixed with gochujang sauce."
+  },
+  {
+    "name": "Kimchi Jjigae",
+    "cuisine": "Korean",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 350,
+    "description": "A spicy Korean stew, Kimchi Jjigae is made with fermented kimchi, pork or other meats, and vegetables."
+  },
+  {
+    "name": "Bulgogi",
+    "cuisine": "Korean",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 480,
+    "description": "A popular Korean barbecue dish, Bulgogi consists of thinly sliced marinated beef, grilled and served with rice and vegetables."
+  },
+  {
+    "name": "Japchae",
+    "cuisine": "Korean",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 500,
+    "description": "A Korean noodle dish, Japchae features sweet potato noodles stir - fried with vegetables, meat, and a savory sauce."
+  },
+  {
+    "name": "Tteokbokki",
+    "cuisine": "Korean",
+    "taste": "spicy",
+    "budget": "low",
+    "calories": 320,
+    "description": "A well - loved Korean street food, Tteokbokki is made with spicy rice cakes, fish cakes, and other ingredients."
+  },
+  {
+    "name": "Galbi",
+    "cuisine": "Korean",
+    "taste": "savory",
+    "budget": "high",
+    "calories": 600,
+    "description": "A Korean barbecue dish, Galbi consists of marinated beef short ribs, grilled to perfection."
+  },
+  {
+    "name": "Haemul Pajeon",
+    "cuisine": "Korean",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 450,
+    "description": "A Korean savory pancake, Haemul Pajeon is made with a batter of flour, eggs, and seafood, cooked on a griddle."
+  },
+  {
+    "name": "Spicy Dakgalbi",
+    "cuisine": "Korean",
+    "taste": "spicy",
+    "budget": "medium",
+    "calories": 550,
+    "description": "A spicy Korean chicken dish, Spicy Dakgalbi is made with chicken, vegetables, and a spicy sauce, cooked in a large pan."
+  },
+  {
+    "name": "Manduguk",
+    "cuisine": "Korean",
+    "taste": "savory",
+    "budget": "medium",
+    "calories": 380,
+    "description": "A Korean soup, Manduguk features dumplings in a clear broth, often served on special occasions."
+  },
+  {
+    "name": "Patbingsu",
+    "cuisine": "Korean",
+    "taste": "sweet",
+    "budget": "medium",
+    "calories": 420,
+    "description": "A popular Korean dessert, Patbingsu is a shaved ice dessert topped with sweet red beans, fruits, condensed milk, and other toppings."
+  },
+  {
+    "name": "Samgyeopsal",
+    "cuisine": "Korean",
+    "taste": "savory",
+    "description": "A Korean BBQ classic, thick slices of pork belly are grilled on a sizzling iron plate until charred and are often served wrapped with lettuce, garlic and a Korean dipping sauce.",
+    "budget": "medium",
+    "calories": 650
+  }
+]
